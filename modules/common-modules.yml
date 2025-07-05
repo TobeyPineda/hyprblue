@@ -1,0 +1,10 @@
+---
+# yaml-language-server: $schema=https://schema.blue-build.org/module-v1.json
+# to finish...
+modules:
+  # ----------------------------------------------------------------------------------------------------------------------------
+  # - from-file: modules/akmods.yml
+  - from-file: modules/ublue-essential.yml
+  - from-file: modules/dnf.yml
+  - from-file: modules/default-flatpaks.yml
+  - from-file: modules/files.yml
